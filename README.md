@@ -45,6 +45,5 @@ View the data again
 
 ## Introduction and Download of ExcelToDatabase
 
-- 
 [ExcelToDatabase - Automation tool for batch importing Excel files into database](https://github.com/ryjfgjl/ExcelToDatabase/blob/master/README.md)
  
