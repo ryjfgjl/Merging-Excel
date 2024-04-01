@@ -42,7 +42,6 @@ View the data again
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0jz5j0a14szrfsgyv7dq.png)
 
-
 ## Introduction and Download of ExcelToDatabase
 
 [ExcelToDatabase - Automation tool for batch importing Excel files into database](https://github.com/ryjfgjl/ExcelToDatabase/blob/master/README.md)
